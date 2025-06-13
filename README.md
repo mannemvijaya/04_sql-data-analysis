@@ -1,4 +1,6 @@
 🧠 Task 4: SQL for Data Analysis
+
+
 🎯 Objective
 The goal of this project is to leverage SQL as a powerful tool for analyzing structured e-commerce data.
 Through writing optimized queries, this project demonstrates practical data analysis, trend discovery, and business insight generation.
